@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
+  Rocket.q
 </h1>
 <h2 align="center">Projeto feito na next level week 6</h2>
 
