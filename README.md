@@ -1,7 +1,7 @@
 <h1 align="center">
   Rocket.q
 </h1>
-<h2 align="center">Projeto feito na next level week 6</h2>
+<h2 align="center">Projeto feito na next level week 6 by rocketseat</h2>
 
 <br>
 
